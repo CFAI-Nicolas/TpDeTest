@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fptpO7VaB94IOdlI9HttxqASRSAaGioMA2dEIbYquMWEKbisaOUvbE623raTtoZSb50Q2rCl+Q/8o+QJkUwglg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nico\\Documents\\EcoleInge\\Année 2\\Test et validation\\TpDeTest\\TP1\\TP - le crédit immobilier\\TP le crédit immobilier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nico\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

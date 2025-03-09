@@ -1,0 +1,15 @@
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\bin\Debug\net6.0\TP le crédit immobilier.exe
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\bin\Debug\net6.0\TP le crédit immobilier.deps.json
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\bin\Debug\net6.0\TP le crédit immobilier.runtimeconfig.json
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\bin\Debug\net6.0\TP le crédit immobilier.dll
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\bin\Debug\net6.0\TP le crédit immobilier.pdb
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.csproj.AssemblyReference.cache
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.AssemblyInfoInputs.cache
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.AssemblyInfo.cs
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.dll
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\refint\TP le crédit immobilier.dll
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.pdb
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\TP le crédit immobilier.genruntimeconfig.cache
+C:\Users\Nico\Documents\EcoleInge\Année 2\Test et validation\TP1\TP - le crédit immobilier\obj\Debug\net6.0\ref\TP le crédit immobilier.dll
